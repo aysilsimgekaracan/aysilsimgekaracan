@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🚀 About Me
 
-I'm an software developer with a focus on Python and Swift. I'm currently working on web projects using Django. Additionally, I possess a strong foundation in React Native and have successfully built mobile applications using this framework. I also have a keen interest in artificial intelligence and image processing technologies. Currently, I'm enhancing my Swift skills for iOS development. I absolutely love working on exciting and innovative projects, and I'm constantly eager to learn, while staying up-to-date with the ever-evolving world of technology!
+I'm an software developer with a focus on Python and Swift. I'm currently working on web projects using Django. Additionally, I possess a strong foundation in React Native and have successfully built mobile applications using this framework. Currently, I'm enhancing my Swift skills for iOS development. I also have a keen interest in artificial intelligence and image processing technologies. I absolutely love working on exciting and innovative projects, and I'm constantly eager to learn, while staying up-to-date with the ever-evolving world of technology!
 
 *   ✉️  You can contact me at [contact@aysilsimge.dev](mailto:contact@aysilsimge.dev)
 *   🚀  I'm currently working on [Plant Monitoring System](http://github.com/aysilsimgekaracan/plant-monitoring-system)
